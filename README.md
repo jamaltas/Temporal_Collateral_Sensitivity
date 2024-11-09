@@ -3,3 +3,5 @@ Code associated with the manuscript "Dynamic collateral sensitivity profiles hig
 
 
 "AnalyzeIC50s.m" and its associated functions "shadedErrorBar.m" and "densityplot.m" analyze and create figures related to Figures 2C, S1, S2, S3 using "TempData.mat"
+
+"QuickLook" and "MakeHeterogeneityFigurePanels.m" files use the time-dependent data in the *_day*.mat files to produce figure 3.
